@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653306440 source:d:\lab_8\lab_8\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"mod_lipodat.h"
+
+1653306730 d:\lab_8\mod_lipodat.h
+	<cmath>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653308329 source:d:\lab_8\test_driver\main.cpp
+	<iostream>
+	<math.h>
+	"mod_lipodat.h"
+
+1653306730 d:\lab_8\mod_lipodat.h
+	<cmath>
+	<math.h>
+	<iostream>
+
